@@ -1,8 +1,8 @@
 import streamlit as st
-import cv2
-import cvlib as cv
 from cvlib.object_detection import draw_bbox
 from paddleocr import PaddleOCR
+import cv2
+import cvlib as cv
 import tempfile
 import os
 from PIL import Image
