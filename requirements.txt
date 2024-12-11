@@ -1,7 +1,7 @@
+streamlit==1.7.0
 paddlepaddle==2.6.0
 paddleocr==2.6.0
 opencv-python-headless==4.5.5.64
 cvlib==0.3.0
-streamlit==1.7.0
 setuptools
 tensorflow
