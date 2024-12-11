@@ -3,3 +3,5 @@ setuptools
 tensorflow
 paddleocr
 paddlepaddle
+opencv-python-headless
+cvlib
