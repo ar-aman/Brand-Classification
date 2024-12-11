@@ -1,6 +1,5 @@
 streamlit
-opencv-python-headless
-cvlib
 setuptools
 tensorflow
 paddleocr
+paddlepaddle
