@@ -1,6 +1,6 @@
-streamlit==1.22.0
-opencv-python==4.5.3.56
-cvlib==0.2.7
-paddleocr==2.7.3
-paddlepaddle==2.7.3 
-Pillow==10.3.0
+streamlit
+opencv-python
+cvlib
+paddleocr
+paddlepaddle
+Pillow
